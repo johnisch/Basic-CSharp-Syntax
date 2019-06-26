@@ -8,9 +8,9 @@ namespace RectangleApplication {
       double width;
       
       // constructor
-      public Rectangle(double Len, double Wid) {
-         length = Len;    
-         width = Wid;
+      public Rectangle(double Rec_Length, double Rec_Width) {
+         length = Rec_Length;    
+         width = Rec_Width;
       }
       public double GetArea() {
          return length * width; 
