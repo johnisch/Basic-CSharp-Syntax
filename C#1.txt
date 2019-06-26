@@ -21,7 +21,9 @@ namespace RectangleApplication {
       }
    }
    class ExecuteRectangle {
-      static void Main(string[] args) {
+      static void Main(string[] args){
+      
+      // instantiate Rectangle to access the methods
          Rectangle r = new Rectangle();
          r.Acceptdetails();
          r.Display();
