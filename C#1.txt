@@ -1,3 +1,4 @@
+// calculates the dimension of a Rectangle
 using System;
 
 namespace RectangleApplication {
