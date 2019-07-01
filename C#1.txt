@@ -1,5 +1,5 @@
-// Use of fields, constructors and methods 
 
+// calculates the dimension of a Rectangle
 using System;
 
 namespace RectangleApplication {
